@@ -1,4 +1,4 @@
-# American Sign Language to Text Converter  
+# HAND-SIGN TO TEXT CONVERTER
 
 This project is a Python-based application that converts American Sign Language (ASL) gestures into English text using computer vision and machine learning (Convolutional Neural Network). It leverages a camera to detect hand gestures, recognizes the patterns, and translates them into text.
 
